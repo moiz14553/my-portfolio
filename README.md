@@ -1,11 +1,11 @@
 [![MasterHead](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5S0E-n5z-gDvzZPdOvK7oorksu-JESWk3DdbbvU2ss)](https://codegrills.in)
-<h1 align="center">Hi 👋, I'm moiz</h1>
+<h1 align="center">Hi 👋, I'm ABDUL REHMAN</h1>
 <h3 align="center">A passionate deep learning amd machine learning engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moiz&label=Profile%20views&color=0e75b6&style=flat" alt="moiz" /> </p>
 
-- 🔭 I’m currently working on **ardino based projects**
+- 🔭 I’m currently working on **generative ai and machine learning**
 
 - 🌱 I’m currently learning **artificial intelligence**
 
@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/moiz14553/moiz](https://github.com/moiz14553/moiz)
 
-- 💬 Ask me about **programming,machine learnings,deep learnings,graphics designing,python,java,jaca script**
+- 💬 Ask me about **programming,machine learnings,deep learnings,graphics designing,python,java,c++**
 
 - 📫 How to reach me **moiz14553@gmail.com**
 
